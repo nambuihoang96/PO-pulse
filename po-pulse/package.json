@@ -1,0 +1,1 @@
+{"name":"po-pulse-mobile","private":true,"scripts":{"build":"node scripts/build-worker.cjs"}}
